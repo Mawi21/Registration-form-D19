@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=BankGothic Md BT:400,700&display=swap');
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'BankGothic Md BT', sans-serif;
 }
 body{
   background: #fec107;
   padding: 0 10px;
 }
 .wrapper{
-  max-width: 500px;
-  width: 100%;
+  max-width: 1000px;
+  width: 1000%;
   background: #fff;
   margin: 20px auto;
   box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
